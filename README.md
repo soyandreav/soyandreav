@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @soyandreav
 - 👀 I’m interested in product management and user/web tracking
-- 🌱 I’m currently learning about customer data platforms
 - 💞️ I’m looking to collaborate with product teams
 - 📫 Reach me at @soyandreav in twitter
 
