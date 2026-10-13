@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @soyandreav
-- 👀 I’m interested in product management and user/web tracking
-- 💞️ I’m looking to collaborate with product teams
+- 👋 Hi, it's @soyandreav
 - 📫 Reach me at @soyandreav in twitter
 
 <!---
